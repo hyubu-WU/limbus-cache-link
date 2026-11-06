@@ -1,0 +1,10 @@
+# 本地配置（含你的用户名/盘符），不提交
+config.json
+
+# 日志
+*.log
+
+# 系统垃圾
+Thumbs.db
+desktop.ini
+.DS_Store
